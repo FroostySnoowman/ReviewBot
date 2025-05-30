@@ -1,0 +1,10 @@
+General:
+    TOKEN: "" # Your bot token
+    ACTIVITY: "watching" # playing, watching, listening, streaming
+    DOING_ACTIVITY: "Reviews" # The activity that the bot is doing
+    STREAMING_ACTIVITY_TWITCH_URL: "" # Twitch URL for streaming activity, leave empty if not applicable
+    STATUS: "online" # online, idle, dnd, invisible
+    EMBED_COLOR: "#00FFF3" # Color of the embeds, can be any hex color code
+
+Review:
+    REVIEW_CHANNEL_ID: 1111111111111111111 # Channel ID where reviews will be posted
