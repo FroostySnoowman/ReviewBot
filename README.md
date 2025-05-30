@@ -22,8 +22,3 @@
 As part of every FroostySnoowman (someone0171) bot, I gaurentee a 3 month support period. If you have any issues, need minor tweaks, or have minor adjustments please contact me and I'll be more than happy to help. After the 3 month period, I cannot gaurentee I will be available, but please reach out.
 
 Gaurenteed support commences on 6/1/25 and ends on 9/1/25.
-
-## Tips
-If you like my work and would like to support my journey, feel free to leave a tip!
-
-https://paypal.me/Someone0171
