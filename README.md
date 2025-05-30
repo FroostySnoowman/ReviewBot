@@ -16,6 +16,7 @@
 12. Setup the bot on a server/host of your choice and run `pip install -r requirements.txt` (Pterodactyl does this for you when you run it)
 13. Run the bot using `python3 main.py`
 14. Use the `/review` command and have fun!
+15. OPTIONAL: If you would like to disable the "Add App" button when you click on the bot in a server, choose "Installation" in [Discord Developer Portal](https://discord.com/developers/applications) and under "Install Link", choose "None".
 
 ## Support
 As part of every FroostySnoowman (someone0171) bot, I gaurentee a 3 month support period. If you have any issues, need minor tweaks, or have minor adjustments please contact me and I'll be more than happy to help. After the 3 month period, I cannot gaurentee I will be available, but please reach out.
